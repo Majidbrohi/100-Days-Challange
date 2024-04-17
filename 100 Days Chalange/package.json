@@ -1,0 +1,13 @@
+{
+  "name": "100-days-chalange",
+  "version": "1.2.1",
+  "description": "",
+  "main": "d26.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
